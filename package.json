@@ -1,0 +1,30 @@
+{
+  "name": "try-eleventy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hushin/try-eleventy.git"
+  },
+  "author": "hushin",
+  "homepage": "https://github.com/hushin/try-eleventy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hushin/try-eleventy/issues"
+  },
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
